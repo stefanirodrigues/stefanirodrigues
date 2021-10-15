@@ -9,9 +9,11 @@
 
 <div align="center">
   <a href="https://stefanirodrigues.carrd.com">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stefanirodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanirodrigues&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stefanirodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanirodrigues&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+##
   
 <div align="center"> 
   <a href = "mailto:stefanirodrigues@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
