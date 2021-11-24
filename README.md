@@ -2,10 +2,10 @@
 <img align="right" alt="Hi-gif" height="150" style="border-radius:50px;" src="https://media3.giphy.com/media/Ri98Ht4Q9hczOeHC1E/giphy.gif?cid=790b7611cd666df253c511afb3de33e27d1e1a044eef099d&rid=giphy.gif&ct=s"> 
 
 - 👩🏽‍🦱 I'm a Brazilian ESL teacher and I'm majoring in Languages, Linguistics and Literature. I've always loved technology and tinkering with computers though, so I'm learning how to code. 
-- 🎀 As a teenager, I spent countless hours playing with HTML and CSS, usually to modify Tumblr themes. I also lurked around websites, inspecting their source-code to implement things on my own, hehe. 👀
-- 🦇 I’m interested in many things, mainly web development. I'm also interested in NLP. Outside strictly technology, I love horror stuff, literature and music, especially metal.
-- 🌱 I’m currently learning some CS fundamentals on CS50x. I've dabbled with C and Python. In due time I'll reach JavaScript and TypeScript (and more to come). Eventually, I wanna choose a language to specialize in.
-- 💞️ I’m looking to collaborate on anything, really. If you want my help/wanna help me, feel free to reach out! If you want to talk about shared interests, feel free too!
+- 🎀 As a teenager, I spent countless hours playing with HTML and CSS, usually to create and modify Tumblr themes. I also lurked around websites, inspecting their source-code to implement things on my own. 👀
+- 🦇 I’m interested in many things, mainly web development. I'm also interested in NLP. Outside strictly technology, I love horror stuff, literature and music, especially industrial, post-punk and metal.
+- 🌱 I’m currently learning some CS fundamentals on CS50x. I'm also working through The Odin Project. Until now, I've dabbled with C and Python.
+- 💞️ If anything you see here interests you, feel free to reach out!
 
 <div align="center">
   <a href="https://stefanirodrigues.carrd.com">
